@@ -1,5 +1,4 @@
-# test
-Linux安装Nginx：
+# Linux安装Nginx：
 
 1.安装四个依赖包： 
 yum -y install gcc zlib zlib-devel pcre-devel openssl openssl-devel
